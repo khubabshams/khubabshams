@@ -2,24 +2,33 @@
 
 
 ## Hi there 👋 
+
 ### Welcome to my ✨ _GitHub profile_ ✨
-I am an MIS graduate and experienced Odoo ERP developer, Python-focused with more than 5 years of experience, familiar with Android application development, medical device integrations, and the healthcare sector in general. I am also interested in data science and machine learning.
+<hr>
 
-Send me a connection request if you have any shared interests with me or professional expertise.
+## ⚡ About me
+- MIS graduate and Odoo ERP developer with more than 5 years of experience 👴🏽, familiar with Android application development. Interested in data science and machine learning 📊. Minimalist and Man Utd supporter 😈 I enjoy watching tennis and playing football ⚽.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
+- [Diploma in Full Stack Software Development](https://codeinstitute.net/full-stack-software-development-diploma/)
 
-- 🔭 I’m currently working on [Diploma in Full Stack
-Software Development](https://codeinstitute.net/full-stack-software-development-diploma/)
-- 🌱 I’m currently learning _React⚛️_
-- 👯 I’m looking to collaborate on _HL7 Applications⚕️🏥_
-- ⚡ About me: Minimalist⚪⚫ and Man Utd supporter 😈⚽
-- 📫 How to reach me: kshamse4@gmail.com
+## 🌱 I’m currently learning
+- _React ⚛️_
+- Django & Django REST frameworks
 
-## Stats 🧮 
+## 🏆 Projects
 
-[![Kuhbab’s github stats](https://github-readme-stats.vercel.app/api?username=kshamse)](https://github.com/kshamse)
+- <u>theMinimalism ⚫⚪</u> _HTML, CSS_ [Live Site](https://kshamse.github.io/minimalism/) | [Repo](https://github.com/kshamse/minimalism)
+- <u>Regions Quiz 🌍</u> _HTML, CSS, JS_ [Live Site](https://kshamse.github.io/regions-quiz/) | [Repo](https://github.com/kshamse/regions-quiz)
+- <u>Minesweeper Game 💣</u> _Python_ [Live Site](https://cli-minesweeper.herokuapp.com/) | [Repo](https://github.com/kshamse/minesweeper)
+- <u>Owline Forum 💬</u> _Django_ [Live Site](https://owline.herokuapp.com/) | [Repo](https://github.com/kshamse/owline)
+- <u>Database Auto Backup Module 🛢</u> _Odoo_ [Repo](https://github.com/kshamse/Odoo-Database-Auto-Backup)
+- <u>PharmaQuiz Android App 📱</u> _Kotlin_ [Repo](https://github.com/kshamse/PharmaQuiz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshamse&layout=compact)](https://github.com/kshamse)
+## 📫 How to reach me: 
+- <a href="mailto:kshamse4@gmail.com">Email me</a>
+- [Check me out on LinkedIn and connect with me](https://www.linkedin.com/in/kshamse/)
 
-## I hope you found something useful there. Thank you. 😊
+[![Kuhbab’s github stats 🧮](https://github-readme-stats.vercel.app/api?username=kshamse)](https://github.com/kshamse) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshamse&layout=compact)](https://github.com/kshamse)
+
+## Thank you for stopping by 😊
