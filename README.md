@@ -17,7 +17,7 @@
 
 ## 🌱 I’m currently learning
 
-- _React ⚛️_
+- React ⚛️
 - Django & Django REST frameworks
 
 ## 🏆 Projects
