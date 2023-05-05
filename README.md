@@ -4,15 +4,19 @@
 ## Hi there 👋 
 
 ### Welcome to my ✨ _GitHub profile_ ✨
+
 <hr>
 
 ## ⚡ About me
+
 - MIS graduate and Odoo ERP developer with more than 5 years of experience 👴🏽, familiar with Android application development. Interested in data science and machine learning 📊. Minimalist and Man Utd supporter 😈 I enjoy watching tennis and playing football ⚽.
 
 ## 🔭 I’m currently working on
+
 - [Diploma in Full Stack Software Development](https://codeinstitute.net/full-stack-software-development-diploma/)
 
 ## 🌱 I’m currently learning
+
 - _React ⚛️_
 - Django & Django REST frameworks
 
@@ -25,10 +29,15 @@
 - <u>Database Auto Backup Module 🛢</u> _Odoo_ [Repo](https://github.com/kshamse/Odoo-Database-Auto-Backup)
 - <u>PharmaQuiz Android App 📱</u> _Kotlin_ [Repo](https://github.com/kshamse/PharmaQuiz)
 
-## 📫 How to reach me: 
+## 🧮 Stats 
+
+[![Kuhbab’s github stats 🧮](https://github-readme-stats.vercel.app/api?username=kshamse)](https://github.com/kshamse) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshamse&layout=compact)](https://github.com/kshamse)
+
+
+## 📫 Contact me
+
 - <a href="mailto:kshamse4@gmail.com">Email me</a>
 - [Check me out on LinkedIn and connect with me](https://www.linkedin.com/in/kshamse/)
 
-[![Kuhbab’s github stats 🧮](https://github-readme-stats.vercel.app/api?username=kshamse)](https://github.com/kshamse) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshamse&layout=compact)](https://github.com/kshamse)
 
 ## Thank you for stopping by 😊
