@@ -37,7 +37,7 @@
 ## 📫 Contact me
 
 - <a href="mailto:kshamse4@gmail.com">Email me</a>
-- [Check me out on LinkedIn and connect with me](https://www.linkedin.com/in/kshamse/)
+- Check me out on [LinkedIn and connect with me](https://www.linkedin.com/in/kshamse/)
 - No social media 📵😅
 
 
