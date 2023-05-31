@@ -1,4 +1,4 @@
-![](/media/banner.gif)
+![](/media/cover.png)
 
 
 ## Hi there 👋 
