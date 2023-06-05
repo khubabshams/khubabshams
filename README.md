@@ -1,10 +1,7 @@
 ![](https://media.licdn.com/dms/image/D4E16AQEq-oeLl8bgCg/profile-displaybackgroundimage-shrink_350_1400/0/1684030052192?e=1691625600&v=beta&t=lh4b8kZ7shKEl6F1eyxf_BgndnC5qIRXk-vLyW11HNY)
 
 
-## Hi there 👋 
-
-### Welcome to my ✨ _GitHub profile_ ✨
-
+## Hi there 👋 Welcome to my ✨ _GitHub profile_ ✨
 <hr>
 
 ## ⚡ About me
