@@ -9,7 +9,7 @@
 
 ## ⚡ About me
 
-- Odoo ERP developer with more than 5 years of experience 👴🏽, familiar with Android application development. Interested in data science and machine learning 📊. MIS graduate, minimalist, and Man Utd supporter 😈.
+- Python and Odoo ERP developer with more than 5 years of experience 👴🏽, familiar with Android application development. Interested in data science and machine learning 📊. MIS graduate, minimalist, and Man Utd supporter 😈.
 
 ## 🔭 I’m currently working on
 
@@ -30,6 +30,13 @@
 - <u>Owline Forum 💬</u> _Django_ [Live Site](https://owline.herokuapp.com/) | [Repo](https://github.com/kshamse/owline)
 
 
+## 🖥️ Tech. & Tools
+_Technologies:_ 		HTML5, CSS3, JavaScript, Python, React, Azure, Linux
+_Databases:_			  Postgresql, Firestore
+_Frameworks:_			  Django, DRF, jQuery, Bootstrap, Odoo, Scrum
+_Version Control:_  Git, Github
+_Protocols:_        ASTM, HL7
+
 ## 🧮 Stats 
 
 [![Kuhbab’s github stats 🧮](https://github-readme-stats.vercel.app/api?username=kshamse)](https://github.com/kshamse) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshamse&layout=compact)](https://github.com/kshamse)
@@ -42,4 +49,4 @@
 - No social media 📵😅
 
 
-## Thank you for stopping by 😊
+## Thanks for stopping by
