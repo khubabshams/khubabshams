@@ -2,7 +2,6 @@
 
 
 ## Hi there 👋 Welcome to my ✨ _GitHub profile_ ✨
-<hr>
 
 ## ⚡ About me
 
