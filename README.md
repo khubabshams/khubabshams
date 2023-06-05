@@ -27,15 +27,11 @@
 
 
 ## 🖥️ Tech. & Tools
-_Technologies:_ 		HTML5, CSS3, JavaScript, Python, React, Azure, Linux
-
-_Databases:_			  Postgresql, Firestore
-
-_Frameworks:_			  Django, DRF, jQuery, Bootstrap, Odoo, Scrum
-
-_Version Control:_  Git, Github
-
-_Protocols:_        ASTM, HL7
+- Technologies: 		HTML5, CSS3, JavaScript, Python, React, Azure, Linux
+- Databases:			  Postgresql, Firestore
+- Frameworks:		    Django, DRF, jQuery, Bootstrap, Odoo, Scrum
+- Version Control:  Git, Github
+- Protocols:        ASTM, HL7
 
 ## 🧮 Stats 
 
