@@ -1,4 +1,4 @@
-![]([https://media.licdn.com/dms/image/D4E16AQEq-oeLl8bgCg/profile-displaybackgroundimage-shrink_350_1400/0/1684030052192?e=1691625600&v=beta&t=lh4b8kZ7shKEl6F1eyxf_BgndnC5qIRXk-vLyW11HNY](https://media.licdn.com/dms/image/D4E16AQG8NxgG3EDDVw/profile-displaybackgroundimage-shrink_350_1400/0/1691357083403?e=1697068800&v=beta&t=CsXSnG82f9govb-EfXbqxKHJkqb1fnFr52I23QZzwX8))
+![Cover Image](https://media.licdn.com/dms/image/D4E16AQG8NxgG3EDDVw/profile-displaybackgroundimage-shrink_350_1400/0/1691357083403?e=1697068800&v=beta&t=CsXSnG82f9govb-EfXbqxKHJkqb1fnFr52I23QZzwX8)
 
 
 ## Hi there 👋 Welcome to my GitHub profile
