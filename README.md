@@ -5,7 +5,7 @@
 
 ## ⚡ About me
 
-- Python and Odoo ERP developer with more than 5 years of experience 👴🏽, familiar with Android application development. Interested in data science and machine learning 📊. MIS graduate, minimalist, and Man Utd supporter 😈.
+- Experienced Python and Odoo ERP developer 👴🏽, familiar with Android application development. Interested in data science and machine learning 📊. MIS graduate, minimalist, and Man Utd supporter 😈.
 
 ## 🔭 I’m currently working on
 
