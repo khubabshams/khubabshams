@@ -7,14 +7,11 @@
 
 - Experienced Python and Odoo ERP developer 👴🏽, familiar with Android application development. Interested in data science, Fintech, and machine learning 📊. MIS graduate, minimalist, and Man Utd supporter 😈.
 
+
 ## 🔭 Education
 - Bachelor's degree of Management Information Systems.
 - [Diploma in Full Stack Software Development](https://codeinstitute.net/full-stack-software-development-diploma/)
 
-## 🌱 I’m currently learning
-
-- React ⚛️
-- Django & Django REST frameworks
 
 ## 🏆 Projects
 
