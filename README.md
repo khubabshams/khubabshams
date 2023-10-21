@@ -33,10 +33,6 @@
 - Version Control:  Git, Github
 - Protocols:        ASTM, HL7
 
-## 🧮 Stats 
-
-[![Kuhbab’s github stats 🧮](https://github-readme-stats.vercel.app/api?username=kshamse)](https://github.com/kshamse) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshamse&layout=compact)](https://github.com/kshamse)
-
 
 ## 📫 Contact me
 
