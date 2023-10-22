@@ -1,4 +1,4 @@
-![Cover Image](https://media.licdn.com/dms/image/D4E16AQG8NxgG3EDDVw/profile-displaybackgroundimage-shrink_350_1400/0/1691357083403?e=1697068800&v=beta&t=CsXSnG82f9govb-EfXbqxKHJkqb1fnFr52I23QZzwX8)
+![Cover Image](https://media.licdn.com/dms/image/D4E16AQHQ4joovJZLYg/profile-displaybackgroundimage-shrink_350_1400/0/1697972442775?e=1703721600&v=beta&t=X8FLufvs4VcRWQ6h2HBPwFslq9mZjnPhIztfz5Z3MMA)
 
 
 ## Hi there 👋 Welcome to my GitHub profile
