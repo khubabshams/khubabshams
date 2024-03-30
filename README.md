@@ -14,13 +14,13 @@
 
 
 ## 🏆 Projects
-
-- <u>Database Auto Backup Module 🛢</u> _Odoo_ [Odoo App Store](https://apps.odoo.com/apps/modules/14.0/database_autobackup/) | [Repo](https://github.com/khubabshams/Odoo-Database-Auto-Backup)
-- <u>PharmaQuiz Android App 📱</u> _Kotlin_ [UpToDown App Store](https://pharmaquiz.en.uptodown.com/android) | [Repo](https://github.com/khubabshams/PharmaQuiz)
-- <u>theMinimalism ⚫⚪</u> _HTML, CSS_ [Live Site](https://khubabshams.github.io/minimalism/) | [Repo](https://github.com/khubabshams/minimalism)
-- <u>Regions Quiz 🌍</u> _HTML, CSS, JS_ [Live Site](https://khubabshams.github.io/regions-quiz/) | [Repo](https://github.com/khubabshams/regions-quiz)
-- <u>Minesweeper Game 💣</u> _Python_ [Live Site](https://cli-minesweeper.herokuapp.com/) | [Repo](https://github.com/khubabshams/minesweeper)
-- <u>Owline Forum 💬</u> _Django_ [Live Site](https://owline.herokuapp.com/) | [Repo](https://github.com/khubabshams/owline)
+| Project Name | Technologies| Live Site/ Store Link | Github Repo Link |
+| <u>Database Auto Backup Module 🛢</u> | _Odoo_ | [Odoo App Store](https://apps.odoo.com/apps/modules/14.0/database_autobackup/) | [Repo](https://github.com/khubabshams/Odoo-Database-Auto-Backup) |
+| <u>PharmaQuiz Android App 📱</u> | _Kotlin_ | [UpToDown App Store](https://pharmaquiz.en.uptodown.com/android) | [Repo](https://github.com/khubabshams/PharmaQuiz) |
+| <u>theMinimalism ⚫⚪</u> | _HTML, CSS_ | [Live Site](https://khubabshams.github.io/minimalism/) | [Repo](https://github.com/khubabshams/minimalism) |
+| <u>Regions Quiz 🌍</u> | _HTML, CSS, JS_ | [Live Site](https://khubabshams.github.io/regions-quiz/) | [Repo](https://github.com/khubabshams/regions-quiz) |
+| <u>Minesweeper Game 💣</u> | _Python_ | [Live Site](https://cli-minesweeper.herokuapp.com/) | [Repo](https://github.com/khubabshams/minesweeper) |
+| <u>Owline Forum 💬</u> | _Django_ | [Live Site](https://owline.herokuapp.com/) | [Repo](https://github.com/khubabshams/owline) |
 
 
 ## 🖥️ Tech. & Tools
