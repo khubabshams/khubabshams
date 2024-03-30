@@ -10,7 +10,7 @@
 
 ## 🔭 Education
 - Bachelor's degree of Management Information Systems.
-- [Diploma in Full Stack Software Development](https://codeinstitute.net/full-stack-software-development-diploma/)
+- [Diploma in Full Stack Software Development](https://www.credential.net/ff990856-7776-443c-9c5f-5fd0e44a1f4f#gs.4l18em)
 
 
 ## 🏆 Projects
