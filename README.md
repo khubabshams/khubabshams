@@ -9,7 +9,7 @@
 
 
 ## 🔭 Education
-- Bachelor's degree of Management Information Systems.
+- Bachelor's degree in Management Information Systems.
 - [Diploma in Full Stack Software Development](https://www.credential.net/ff990856-7776-443c-9c5f-5fd0e44a1f4f#gs.4l18em)
 
 
@@ -22,7 +22,7 @@
 | <u>theMinimalism ⚫⚪</u> | _HTML, CSS_ | [Live Site](https://khubabshams.github.io/minimalism/) | [Repo](https://github.com/khubabshams/minimalism) |
 | <u>Regions Quiz 🌍</u> | _HTML, CSS, JS, Bootstrap, Firestore_ | [Live Site](https://khubabshams.github.io/regions-quiz/) | [Repo](https://github.com/khubabshams/regions-quiz) |
 | <u>Minesweeper Game 💣</u> | _Python, Firestore_ | [Live Site](https://cli-minesweeper.herokuapp.com/) | [Repo](https://github.com/khubabshams/minesweeper) |
-| <u>Owline Forum 💬</u> | _Python, Django, PostgrSQL, HTML, CSS, Bootstrap_ | [Live Site](https://owline.herokuapp.com/) | [Repo](https://github.com/khubabshams/owline) |
+| <u>Owline Forum 💬</u> | _Python, Django, PostgreSQL, HTML, CSS, Bootstrap_ | [Live Site](https://owline.herokuapp.com/) | [Repo](https://github.com/khubabshams/owline) |
 
 
 ## 🖥️ Tech. & Tools
