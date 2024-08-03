@@ -5,7 +5,7 @@
 
 ## ⚡ About me
 
-- Experienced Python and Odoo ERP developer with an MIS degree and a proven track record in developing, testing, integrating, and deploying solutions. Collaborative team player with strong communication, accountability, and problem-solving skills. Man Utd supporter 😈
+- Experienced Python and Odoo ERP developer with an MIS degree and a proven track record in developing, testing, integrating, and deploying solutions. Collaborative team player with communication, accountability, and problem-solving skills. Man Utd supporter 😈
 
 
 ## 🔭 Education
