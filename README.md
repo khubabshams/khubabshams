@@ -5,7 +5,7 @@
 
 ## ⚡ About me
 
-- A passionate Python enthusiast and skilled Odoo ERP developer, I specialise in creating easy-to-use applications and dynamic web solutions. With a MIS degree, a love for simplicity, and a proud support of Man Utd 😈. I'm excited to bring my expertise and dedication to your team, and together, let's achieve great things.
+- Experienced Python and Odoo ERP developer with an MIS degree and a proven track record in developing, testing, integrating, and deploying solutions. Collaborative team player with strong communication, accountability, and problem-solving skills.. Man Utd supporter 😈.
 
 
 ## 🔭 Education
@@ -26,7 +26,7 @@
 
 
 ## 🖥️ Tech. & Tools
-- Technologies: 		HTML5, CSS3, JavaScript, Python, React, Azure, Linux
+- Technologies: 		HTML5, CSS3, JavaScript, Python, C, React, Azure, Linux
 - Databases:			  Postgresql, Firestore
 - Frameworks:		    Django, DRF, jQuery, Bootstrap, Odoo, Scrum
 - Version Control:  Git, Github
