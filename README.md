@@ -26,9 +26,9 @@
 
 
 ## 🖥️ Tech. & Tools
-- Technologies: 		HTML5, CSS3, JavaScript, Python, C, React, Azure, Linux
+- Technologies: 		Python, JavaScript, C, Azure, Linux, HTML, CSS, React
 - Databases:			  Postgresql, Firestore
-- Frameworks:		    Django, DRF, jQuery, Bootstrap, Odoo, Scrum
+- Frameworks:		    Odoo, Scrum, Bootstrap, jQuery, Django, DRF
 - Version Control:  Git, Github
 - Protocols:        ASTM, HL7
 
