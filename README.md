@@ -10,7 +10,7 @@
 
 ## 🔭 Education
 - Bachelor's degree in Management Information Systems from [SUSTech](https://www.sustech.edu/).
-- [Diploma in Full Stack Software Development from Code Institute](https://www.credential.net/ff990856-7776-443c-9c5f-5fd0e44a1f4f#gs.4l18em)
+- [Diploma](https://www.credential.net/ff990856-7776-443c-9c5f-5fd0e44a1f4f#gs.4l18em) in Full Stack Software Development from [Code Institute](https://codeinstitute.net/).
 
 
 ## 🏆 Projects
