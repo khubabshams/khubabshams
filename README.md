@@ -1,4 +1,4 @@
-![Cover Image](https://media.licdn.com/dms/image/v2/D4E16AQEKRjc6gwmUgA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725292463545?e=1731542400&v=beta&t=Pa2LygxI7eQpUbq8igzm0Gd-mf5OJo0-d0k5J8wyFi4)
+![Cover Image](https://media.licdn.com/dms/image/v2/D4E16AQEKRjc6gwmUgA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725292463545?e=1737590400&v=beta&t=lY6hkLTaJOAF6KaHD5AHh8NXd0wcuWJvo1czddw_t3M)
 
 
 ## Hi there 👋
