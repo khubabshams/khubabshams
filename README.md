@@ -20,7 +20,7 @@
 | <u>Database Auto Backup Module 🛢</u> | _Odoo, cURL_ | [Odoo App Store](https://apps.odoo.com/apps/modules/14.0/database_autobackup/) ** [Repo](https://github.com/khubabshams/Odoo-Database-Auto-Backup) |
 | <u>PharmaQuiz Android App 📱</u> | _Kotlin, XML_ | [UpToDown App Store](https://pharmaquiz.en.uptodown.com/android) ** [Repo](https://github.com/khubabshams/PharmaQuiz) |
 | <u>theMinimalism ⚫⚪</u> | _HTML, CSS_ | [Live Site](https://khubabshams.github.io/minimalism/) ** [Repo](https://github.com/khubabshams/minimalism) |
-| <u>Regions Quiz 🌍</u> | _HTML, CSS, JS, Bootstrap, Firestore_ | [Live Site](https://khubabshams.github.io/regions-quiz/) [Repo](https://github.com/khubabshams/regions-quiz) |
+| <u>Regions Quiz 🌍</u> | _HTML, CSS, JS, Bootstrap, Firestore_ | [Live Site](https://khubabshams.github.io/regions-quiz/) ** [Repo](https://github.com/khubabshams/regions-quiz) |
 | <u>Minesweeper Game 💣</u> | _Python, Firestore_ | [Repo](https://github.com/khubabshams/minesweeper) |
 | <u>Endorse-Plus 👍</u> | _React, Python, Django Rest Framework, PostgreSQL, Bootstrap_ | [Frontend Repo](https://github.com/khubabshams/endorse-plus) ** [Backend Repo](https://github.com/khubabshams/endorse-plus) |
 | <u>Owline Forum 💬</u> | _Python, Django, PostgreSQL, HTML, CSS, Bootstrap_ | [Repo](https://github.com/khubabshams/owline) |
