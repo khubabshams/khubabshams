@@ -36,7 +36,7 @@
 
 ## 📫 Contact me
 
-- <a href="mailto:kshamse4@gmail.com">Email me</a>
+- <a href="mailto:khubabshams@gmail.com">Email me</a>
 - Check me out on [LinkedIn and connect with me](https://www.linkedin.com/in/khubabshams/)
 - No social media 📵😅
 
